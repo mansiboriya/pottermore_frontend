@@ -1,0 +1,38 @@
+.login_bg{
+  background-image: url("/images/hp.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+}
+
+.slytherin_home{
+  background-image: url("/images/sl_bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+}
+
+.gryffindor_home{
+  background-image: url("/images/gf_bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+}
+
+.hufflepuff_home{
+  background-image: url("/images/hff_bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+}
+
+.ravenclaw_home{
+  background-image: url("/images/rc_bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+}
+
+.yellow-text{
+  color: #ffcb0c;
+}
